@@ -1,0 +1,6 @@
+H:\tester\tester\bin\Debug\tester.exe.config
+H:\tester\tester\bin\Debug\tester.exe
+H:\tester\tester\bin\Debug\tester.pdb
+H:\tester\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+H:\tester\tester\obj\Debug\tester.exe
+H:\tester\tester\obj\Debug\tester.pdb

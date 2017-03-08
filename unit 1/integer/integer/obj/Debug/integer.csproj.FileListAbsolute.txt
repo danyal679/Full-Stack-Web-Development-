@@ -1,0 +1,6 @@
+H:\integer\integer\bin\Debug\integer.exe.config
+H:\integer\integer\obj\Debug\integer.csprojResolveAssemblyReference.cache
+H:\integer\integer\bin\Debug\integer.exe
+H:\integer\integer\bin\Debug\integer.pdb
+H:\integer\integer\obj\Debug\integer.exe
+H:\integer\integer\obj\Debug\integer.pdb

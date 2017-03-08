@@ -1,0 +1,6 @@
+H:\user input\user input\bin\Debug\user input.exe.config
+H:\user input\user input\bin\Debug\user input.exe
+H:\user input\user input\bin\Debug\user input.pdb
+H:\user input\user input\obj\Debug\user input.csprojResolveAssemblyReference.cache
+H:\user input\user input\obj\Debug\user input.exe
+H:\user input\user input\obj\Debug\user input.pdb
